@@ -1,0 +1,9 @@
+main: net.Lowk.guessingGame.Main
+name: GuessingGame
+author: MrIronMan
+version: 1.0
+description: Guessing Game By MrIronMan For Lowk Network
+
+commands:
+  GuessingGame:
+    aliases: [fungame]
