@@ -1,3 +1,3 @@
 # GuessingGame
 
-Guess number game for Lowk Network
+Simple guessing game with gui support.
